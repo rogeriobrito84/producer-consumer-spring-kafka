@@ -1,15 +1,5 @@
-<head>
-<style>
-    .images {
-        display: flex;
-        min-width: 100%;
-        justify-content: center;
-        align-items: center;
-        align-content: center;
-    }
-</style>
-</head>
-<div class="images">
+
+<div style="display: flex; min-width: 100%; justify-content: center; align-items: center; align-content: center;">
     <img src="https://cdn-images-1.medium.com/max/800/1*gxXLMIuJDHCH7fwIgEP1cg.png" width="300px" alt="Spring Boot"/>
     <img src="https://miro.medium.com/max/1200/1*0R28KyrP_IYMdYre7yuJ2g.png" height="300px" alt="Apach Kafka"/>
 </div>
