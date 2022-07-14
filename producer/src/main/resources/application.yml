@@ -1,0 +1,9 @@
+topic:
+  name: studies.car
+
+spring:
+  kafka:
+    bootstrap-servers: localhost:9092
+  mvc:
+    pathmatch:
+      matching-strategy: ant_path_matcher
